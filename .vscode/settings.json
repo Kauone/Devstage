@@ -1,0 +1,16 @@
+{
+    "editor.defaultFormatter": "<other formatter>",
+    "[javascript]": {
+        "editor.deafultFormatter": "biomejs.biome"
+    },
+    "[typescript]": {
+        "editor.deafultFormatter": "biomejs.biome"
+    },
+    "[typescriptreact]": {
+        "editor.deafultFormatter": "biomejs.biome"
+    },
+    "editor.codeActionsOnSave":{
+        "source.organizeImports.biome": "explicit"
+    },
+    "editor.formatOnSave": true
+}
